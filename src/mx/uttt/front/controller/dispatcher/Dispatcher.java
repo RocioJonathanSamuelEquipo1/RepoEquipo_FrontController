@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 package mx.uttt.front.controller.dispatcher;
-
+import Ejecutor.MenuInicial;
+import mx.uttt.front.controller.view.Vista2;
+import mx.uttt.front.controller.view.vista1;
 /**
  *
  * @author Jonathan Aldair Perez 
