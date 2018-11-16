@@ -7,7 +7,7 @@ package mx.uttt.front.controller.dispatcher;
 
 /**
  *
- * @author Jonathan Aldair
+ * @author Jonathan Aldair Perez 
  */
 public class Dispatcher {
         private vista1 v1;
